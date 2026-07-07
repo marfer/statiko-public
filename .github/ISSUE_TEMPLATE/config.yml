@@ -2,3 +2,6 @@ contact_links:
   - name: Get Help
     url: https://github.com/marfer/statiko-public/discussions/new?category=general
     about: If you can't get something to work the way you expect, open a question in our discussion forums.
+  - name: Roadmap
+    url: https://github.com/users/marfer/projects/2
+    about: See what's planned and in progress before opening a new feature request.
